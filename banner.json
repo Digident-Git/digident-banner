@@ -1,0 +1,16 @@
+{
+  "banner": {
+    "id": "2026-11-offer-1",
+    "enabled": false,
+    "title": "Τίτλος προσφοράς",
+    "text": "Σύντομο κείμενο της προσφοράς ή της ανακοίνωσης.",
+    "image_url": "https://digident-git.github.io/digident-banner/offer.jpg",
+    "button_text": "Δείτε περισσότερα",
+    "url": "https://www.digident.gr/"
+  },
+  "update": {
+    "latest_version": "1.5.0",
+    "download_url": "https://www.digident.gr/",
+    "notes": "Σύντομη περιγραφή της νέας έκδοσης."
+  }
+}
