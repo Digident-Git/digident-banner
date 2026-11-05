@@ -1,7 +1,7 @@
 {
   "banner": {
     "id": "2026-11-offer-das",
-    "enabled": true,
+    "enabled": false,
     "title": "Black Friday offer",
     "text": "30% στα DAS",
     "image_url": "https://digident-git.github.io/digident-banner/offer.jpg",
