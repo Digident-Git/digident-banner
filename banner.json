@@ -1,12 +1,14 @@
 {
   "banner": {
-    "id": "2026-11-offer-das",
-    "enabled": true,
-    "title": "Black Friday offer",
-    "text": "Medit iE -20%",
+    "id": "2026-12-offer-1",
+    "enabled": false,
     "image_url": "https://digident-git.github.io/digident-banner/offer-ie.gif",
-    "button_text": "Δείτε περισσότερα",
-    "url": "https://www.digident.gr/?page_id=1429"
+    "url": "https://www.digident.gr/",
+    "title": "",
+    "text": "",
+    "button_text": "",
+    "layout": "wide",
+    "image_aspect": 4
   },
   "update": {
     "latest_version": "1.5.0",
