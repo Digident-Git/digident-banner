@@ -1,7 +1,7 @@
 {
   "banner": {
     "id": "2026-12-offer-1",
-    "enabled": true,
+    "enabled": false,
     "image_url": "https://digident-git.github.io/digident-banner/offer-ie.gif",
     "url": "https://www.digident.gr/",
     "title": "",
@@ -11,7 +11,7 @@
     "image_aspect": 4
   },
   "update": {
-    "latest_version": "1.5.1",
+    "latest_version": "1.5.0",
     "download_url": "https://www.digident.gr/",
     "notes": "Σύντομη περιγραφή της νέας έκδοσης."
   }
