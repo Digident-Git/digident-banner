@@ -1,9 +1,9 @@
 {
   "banner": {
-    "id": "2026-12-offer-1",
-    "enabled": false,
-    "image_url": "https://digident-git.github.io/digident-banner/offer-ie.gif",
-    "url": "https://www.digident.gr/",
+    "id": "bf2026",
+    "enabled": true,
+    "image_url": "https://digident-git.github.io/digident-banner/bf202611.gif",
+    "url": "https://www.digident.gr/?page_id=4122",
     "title": "",
     "text": "",
     "button_text": "",
